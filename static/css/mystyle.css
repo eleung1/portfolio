@@ -1,0 +1,11 @@
+.iconsBottom {
+    text-align: center;
+}
+
+.iconsBottom a {
+  text-decoration: none;
+}
+
+.iconsBottom a:hover {
+  color: #99e6ff;
+}
